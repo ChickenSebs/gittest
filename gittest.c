@@ -59,7 +59,7 @@ int main()
 // 메뉴별 함수 정의
 void menu1()
 {
-    printf("1번 메뉴 실행\n");
+    printf("이해준 나라에 오신걸 환영합니다.\n");
 }
 
 void menu2()

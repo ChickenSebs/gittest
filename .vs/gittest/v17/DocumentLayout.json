@@ -1,7 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\LHJ code\\gittest\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C0990C13-8845-4EE4-8C18-AE9E4201E00E}|gittest.vcxproj|C:\\LHJ code\\gittest\\gittest.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C0990C13-8845-4EE4-8C18-AE9E4201E00E}|gittest.vcxproj|solutionrelative:gittest.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,8 +14,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "gittest.c",
+              "DocumentMoniker": "C:\\LHJ code\\gittest\\gittest.c",
+              "RelativeDocumentMoniker": "gittest.c",
+              "ToolTip": "C:\\LHJ code\\gittest\\gittest.c",
+              "RelativeToolTip": "gittest.c",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAD0AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-10-29T08:40:52.339Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
