@@ -7,6 +7,7 @@ void menu1();
 void menu2();
 void menu3();
 void menu4();
+void menu5(); // 이성민이 추가함.
 
 int main()
 {
@@ -19,6 +20,7 @@ int main()
         printf("2. 노원종 메뉴 2\n");
         printf("3. 유동호 메뉴 3\n");
         printf("4. 김하균 메뉴 4\n");
+        printf("5. 이성민 메뉴 5\n");
         printf("0. 종료\n");
         printf("=====================\n");
         printf("메뉴 번호 입력: ");
@@ -40,6 +42,10 @@ int main()
 
         case 4:
             menu4();
+            break;
+
+        case 5:
+            menu5();
             break;
 
         case 0:
