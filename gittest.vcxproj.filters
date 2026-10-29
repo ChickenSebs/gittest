@@ -18,5 +18,13 @@
     <ClCompile Include="gittest.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="class_test.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="class_test.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

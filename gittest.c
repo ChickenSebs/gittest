@@ -64,7 +64,7 @@ void menu1()
 
 void menu2()
 {
-    printf("2번 메뉴 실행\n");
+    printf("해준이와 함께하는 데이트~~~\n");
 }
 
 void menu3()
