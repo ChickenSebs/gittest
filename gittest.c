@@ -75,3 +75,8 @@ void menu4()
 {
     printf("4번 메뉴 실행\n");
 }
+
+void menu5()
+{
+    printf("이성민입니다.\n");
+}
