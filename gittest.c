@@ -3,6 +3,7 @@
 // git test
 ///  테스트 하균
 // 함수 선언
+//lhj
 void menu1();
 void menu2();
 void menu3();
@@ -64,12 +65,12 @@ int main()
 // 메뉴별 함수 정의
 void menu1()
 {
-    printf("1번 메뉴 실행\n");
+    printf("이해준 나라에 오신걸 환영합니//./다.\n");
 }
 
 void menu2()
 {
-    printf("2번 메뉴 실행\n");
+    printf("해준이와 함께하는 데이트~~~\n");
 }
 
 void menu3()
