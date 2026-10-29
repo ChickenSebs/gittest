@@ -1,7 +1,7 @@
 
 #include <stdio.h>
 // git test
-
+///  테스트 하균
 // 함수 선언
 void menu1();
 void menu2();
