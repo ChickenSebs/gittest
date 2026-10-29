@@ -3,6 +3,7 @@
 // git test
 ///  테스트 하균
 // 함수 선언
+//lhj
 void menu1();
 void menu2();
 void menu3();
